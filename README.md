@@ -1,4 +1,7 @@
-Overview of the Analysis
+      Overview of the Analysis:
+
+
+
 The purpose of this analysis was to build a machine learning model to predict the loan status (healthy loan or high-risk loan) based on various financial features. The dataset provided contains financial information such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The target variable, loan_status, indicates whether a loan is healthy (0) or high-risk (1).
 
 Key Steps in the Analysis:
